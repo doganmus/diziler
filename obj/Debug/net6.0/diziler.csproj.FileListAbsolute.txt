@@ -1,0 +1,15 @@
+D:\education\PatikaPratikler\diziler\bin\Debug\net6.0\diziler.exe
+D:\education\PatikaPratikler\diziler\bin\Debug\net6.0\diziler.deps.json
+D:\education\PatikaPratikler\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+D:\education\PatikaPratikler\diziler\bin\Debug\net6.0\diziler.dll
+D:\education\PatikaPratikler\diziler\bin\Debug\net6.0\diziler.pdb
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\diziler.dll
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\refint\diziler.dll
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\diziler.pdb
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
+D:\education\PatikaPratikler\diziler\obj\Debug\net6.0\ref\diziler.dll
